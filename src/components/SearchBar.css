@@ -1,0 +1,39 @@
+
+
+button {
+    margin: 30px;
+    padding: 15px;
+    background-color: #b10aff;
+    font-family: "Press Start 2P", cursive;
+  }
+
+  
+  input {
+    margin-left: 150px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 35%;
+    margin-bottom: 10px;
+    border-radius: 20px;
+  }
+
+  input:hover {
+    transition: all 1s ease-in-out;
+
+    border-color: rgb(171, 255, 14);
+  }
+  
+  h1{
+    color: rgb(134, 34, 228);
+  }
+
+
+  span {
+    color: rgb(147, 148, 148);
+    font-family: "Press Start 2P";
+  }
+
+  .names {
+    background-color: greenyellow;
+    border-color: blueviolet;
+  }
